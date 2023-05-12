@@ -11,8 +11,11 @@ Dentro del repositorio encontrará varios archivos de ejercicios, cada uno dise�
 
 Para completar los ejercicios, abra el archivo de ejercicios en su editor de código preferido y escriba su solución al problema propuesto. Luego, ejecute el archivo de ejercicios utilizando el comando python <nombre_del_archivo>.py en la terminal. Si su solución es correcta, recibirá un mensaje de felicitación; de lo contrario, recibirá una notificación sobre el error.
 
+  
 Contribuir
+  
 Este repositorio es de código abierto, y los usuarios son bienvenidos a contribuir con sus propios ejercicios. Si desea contribuir, simplemente haga un fork del repositorio, haga sus cambios y envíe un pull request. Los cambios serán revisados por el propietario del repositorio y, si son aceptados, se fusionarán con el código principal.
 
+  
 Contacto
 Si tiene alguna pregunta o comentario sobre este repositorio, no dude en ponerse en contacto con el propietario del repositorio a través de la sección de problemas (Issues) o enviando un correo electrónico a <correo_electronico>.
