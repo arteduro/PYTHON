@@ -19,7 +19,8 @@ Este repositorio es de código abierto, y los usuarios son bienvenidos a contrib
  
   
 Contacto
-Si tiene alguna pregunta o comentario sobre este repositorio, no dude en ponerse en contacto con el propietario del repositorio a través de la sección de problemas (Issues) o enviando un correo electrónico a <correo_electronico>.
+
+Si tiene alguna pregunta o comentario sobre este repositorio, no dude en ponerse en contacto con el propietario del repositorio a través de la sección de problemas (Issues) o enviando un correo electrónico a <arteduro@gmail.com>.
   
 
   
