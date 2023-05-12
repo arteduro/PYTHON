@@ -16,6 +16,10 @@ Contribuir
   
 Este repositorio es de código abierto, y los usuarios son bienvenidos a contribuir con sus propios ejercicios. Si desea contribuir, simplemente haga un fork del repositorio, haga sus cambios y envíe un pull request. Los cambios serán revisados por el propietario del repositorio y, si son aceptados, se fusionarán con el código principal.
 
+ 
   
 Contacto
 Si tiene alguna pregunta o comentario sobre este repositorio, no dude en ponerse en contacto con el propietario del repositorio a través de la sección de problemas (Issues) o enviando un correo electrónico a <correo_electronico>.
+  
+
+  
