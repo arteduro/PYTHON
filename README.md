@@ -1,5 +1,5 @@
 # PYTHON
-Ejercicios en desarrollados en Python con la herramienta ChatGPT 
+Ejercicios en desarrollados en Python con la herramienta ChatGPT.
 
 
 Este repositorio contiene una serie de ejercicios desarrollados en Python con la ayuda de ChatGPT, un modelo de lenguaje natural creado por OpenAI. Los ejercicios están diseñados para ayudar a los usuarios a mejorar sus habilidades de programación en Python, desde principiantes hasta usuarios más avanzados.
